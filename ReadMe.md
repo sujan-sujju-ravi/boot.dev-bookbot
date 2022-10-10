@@ -1,2 +1,2 @@
 Hello!
-This is a simple description.
+This is a simple description for the BookBot project.
